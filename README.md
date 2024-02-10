@@ -1,7 +1,7 @@
 -- Projeto desenvolvido durante a NLW expert-reactjs da Rocktseat
 
-🛠 Tecnologias Usadas
-Typescript, Tailwind CSS, ReactJS, Git e Github.
+🛠 Tecnologias Usadas:
+Typescript, Tailwind CSS, ReactJS, Figma, Git e Github.
 
 Para visitar o site clique no link
 
